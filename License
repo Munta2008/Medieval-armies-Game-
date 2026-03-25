@@ -1,0 +1,75 @@
+License
+
+Custom Game License
+
+Copyright (c) 2026 [Your Name]
+
+----------------------------------------
+1. Code License (MIT)
+----------------------------------------
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+- The above copyright notice and this permission notice must be included in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+----------------------------------------
+2. Game Assets License (CC BY-ND 4.0 Inspired)
+----------------------------------------
+
+All non-code assets in this project, including but not limited to:
+- Art, graphics, and textures
+- Music and sound effects
+- Characters, names, and story
+- Game design and levels
+
+You are free to:
+- Play the game
+- Share and redistribute the game in its original form
+
+Under the following conditions:
+- Attribution: You must give appropriate credit to [Your Name]
+
+You may NOT:
+- Modify, remix, or transform the assets
+- Redistribute modified versions of the game
+- Claim this work, in whole or in part, as your own
+
+----------------------------------------
+3. Disclaimer of Liability
+----------------------------------------
+
+This game and all associated files are provided "AS IS", without warranty of any kind.
+
+The creator shall not be held responsible or liable for:
+- Any damage to hardware or software
+- Data loss or corruption
+- Any bugs, errors, or unintended behavior
+- Any direct or indirect damages arising from use of the game
+
+By using this software, you agree to use it at your own risk.
+
+----------------------------------------
+4. Attribution Requirement
+----------------------------------------
+
+You must clearly credit the original creator:
+
+"[Your Name] — Original Creator"
+
+This credit must be visible wherever the game is distributed.
+
+----------------------------------------
+END OF LICENSE
